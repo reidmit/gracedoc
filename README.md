@@ -3,7 +3,7 @@ Documentation generator for the Grace programming language
 
 This is version 1.0 of Gracedoc, which generates HTML documentation pages
 from well-commented Grace code. To run this, you'll need to install the
-Minigrace compiler. You can get that [https://github.com/gracelang/minigrace](here).
+Minigrace compiler. You can get that [here](https://github.com/gracelang/minigrace).
 
 Once Minigrace is installed, move the `gracedoc.grace` file into the
 same directory as your `./minigrace` executable. Then, you can run:
@@ -29,4 +29,4 @@ all of the HTML, CSS, and Javascript files you need for the documentation
 web pages.
 
 For an example of some Gracedoc-generated documentation,
-[http://www.cs.pomona.edu/~kim/GraceStuff/GRACEDOCS/](see here).
+[see here](http://www.cs.pomona.edu/~kim/GraceStuff/GRACEDOCS/).
